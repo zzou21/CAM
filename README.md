@@ -5,4 +5,4 @@ Authors:
 Zhihui (Jerry) Zou -- Duke University\
 Noah Chang -- University of Michigan, Ann Arbor
 
-Work in progress.
+Work in progress.\S
