@@ -11,6 +11,10 @@ The Coordinate Axes Model is our project to create a tool that combines the coor
 This project was first inspired by symbolic logic's achievement in normalizing the language surrounding the discussion of logic in mathematics and philosophy.
 
 Currently, the project's mathematical foundation is built from the coordinate plane, trigonometry, and integral calculus. Our philosophical foundation borrows mostly from Michel Foucault's work on the history of ideas combined with Karen Barad and Jane Bennett's work on New Materialism.
-
+***
 The "2024NCDHIConference" subfolder contains the code that we used when presenting at the 2024 North Carolina Digital Humanities Institute Conference. This subfolder contains two helices (Constant Repeating and Variable "Utopia" as well as two case study graphs using Yuval Harari's research on Renaissance and modern-day war memoirs).
 
+Constant Repeating Helix:
+![image](https://github.com/zzou21/CoordinateAxesModel/assets/134187182/01ce6503-4606-4d4f-8467-b4dcecb9c2d9)
+Variable "Utopia" Helix:
+![image](https://github.com/zzou21/CoordinateAxesModel/assets/134187182/9fd50cc7-3a4f-4880-855e-37ddd0cf0d08)
