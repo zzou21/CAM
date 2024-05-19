@@ -15,7 +15,7 @@ Currently, the project's mathematical foundation is built from the coordinate pl
 The "2024NCDHIConference" subfolder contains the code that we used when presenting at the 2024 North Carolina Digital Humanities Institute Conference. This subfolder contains two helices (Constant Repeating and Variable "Utopia" as well as two case study graphs using Yuval Harari's research on Renaissance and modern-day war memoirs).
 
 Constant Repeating Helix:\
-<img width="250" alt="Screenshot 2024-05-14 at 21 32 55" src="https://github.com/zzou21/CoordinateAxesModel/assets/134187182/f23a37c4-ccc9-4198-a0d5-4eee3babc36b">
+<img width="250" alt="Constant Repeating Helix" src="https://github.com/zzou21/CoordinateAxesModel/assets/134187182/f23a37c4-ccc9-4198-a0d5-4eee3babc36b">
 
 Variable "Utopia" Helix:\
-<img width="250" alt="Screenshot 2024-05-14 at 21 31 46" src="https://github.com/zzou21/CoordinateAxesModel/assets/134187182/eb27371d-4729-402d-9456-1d72d163c5ba">
+<img width="250" alt="Variable Utopia Helix" src="https://github.com/zzou21/CoordinateAxesModel/assets/134187182/eb27371d-4729-402d-9456-1d72d163c5ba">
